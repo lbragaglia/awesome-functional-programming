@@ -1,5 +1,51 @@
 # [Awesome Functional Programming](https://en.wikipedia.org/wiki/Functional_programming) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Contents
+
+- [Tutorials and Articles](#tutorials-and-articles)
+  - [Lenses](#lenses)
+  - [Monads](#monads)
+  - [Purescript](#purescript)
+  - [Elm](#elm)
+- [Awesome](#awesome)
+- [Books](#books)
+- [Resources](#resources)
+  - [Combinators](#combinators)
+- [Presentations](#presentations)
+- [Videos](#videos)
+- [Youtube channels](#youtube-channels)
+- [Libraries](#libraries)
+  - [JavaScript](#javascript)
+  - [LiveScript](#livescript)
+  - [Java](#java)
+  - [Clojure/ClojureScript](#cloure-clojurescript)
+  - [Scala](#scala)
+  - [Kotlin](#kotlin)
+  - [F#](#f)
+  - [C#](#c)
+  - [Swift](#swift)
+  - [Python](#python)
+  - [PHP](#php)
+  - [Rust](#rust)
+  - [Julia](#julia)
+  - [Go](#go)
+  - [Haskell](#haskell)
+  - [Elixir](#elixir)
+  - [Erlang](#erlang)
+  - [OCaml](#ocaml)
+  - [Racket](#racket)
+- [Languages](#languages)
+  - [Pyret](#pyret)
+  - [Ela](#ela)
+  - [Eta](#eta)
+  - [Koka](#koka)
+  - [Ditto](#ditto)
+  - [F*](#f)
+  - [Idris](#idris)
+  - [Agda](#agda)
+  - [Coq](#coq)
+  
+  
 ## Tutorials and Articles
 
 * [Thinking in Ramda - Blog series](http://randycoulman.com/blog/categories/thinking-in-ramda/)
@@ -986,20 +1032,22 @@ ___
 ***
 [**hackett** - (Very) WIP implementation of a Haskell 98-like Lisp in Racket](https://github.com/lexi-lambda/hackett)
 
-### [Pyret is a programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming](http://www.pyret.org/)
+## Languages
 
-### [Ela - Dynamic functional language](http://elalang.net/)
+- [Pyret](http://www.pyret.org/) - A programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming
 
-### [Eta - A powerful language for building scalable systems on the JVM](http://eta-lang.org/)
+- [Ela](http://elalang.net/) - Dynamic functional language
 
-### [Koka - a function-oriented language with effect inference](https://github.com/koka-lang/koka)
+- [Eta](http://eta-lang.org/) - A powerful language for building scalable systems on the JVM
 
-### [Ditto is a super kawaii dependently typed language for you!](https://github.com/ditto/ditto)
+- [Koka](https://github.com/koka-lang/koka) - A function-oriented language with effect inference
 
-### [F* (pronounced F star) is an ML-like functional programming language aimed at program verification](https://www.fstar-lang.org/)
+- [Ditto](https://github.com/ditto/ditto) - A super kawaii dependently typed language for you!
 
-### [Idris is a general purpose pure functional programming language with dependent types](http://www.idris-lang.org/)
+- [F*](https://www.fstar-lang.org/) - (pronounced F star) An ML-like functional programming language aimed at program verification
 
-### [Agda is a dependently typed functional programming language](https://github.com/agda/agda)
+- [Idris](http://www.idris-lang.org/) - A general purpose pure functional programming language with dependent types
 
-### [Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs](https://coq.inria.fr/)
+- [Agda](https://github.com/agda/agda) - A dependently typed functional programming language
+
+- [Coq](https://coq.inria.fr/) - A formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs
