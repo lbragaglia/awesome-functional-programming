@@ -18,7 +18,7 @@
   - [JavaScript](#javascript)
   - [LiveScript](#livescript)
   - [Java](#java)
-  - [Clojure/ClojureScript](#cloure-clojurescript)
+  - [Clojure/ClojureScript](#clojureclojurescript)
   - [Scala](#scala)
   - [Kotlin](#kotlin)
   - [F#](#f)
