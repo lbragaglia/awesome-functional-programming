@@ -35,16 +35,6 @@
   - [OCaml](#ocaml)
   - [Racket](#racket)
 - [Languages](#languages)
-  - [Pyret](#pyret)
-  - [Ela](#ela)
-  - [Eta](#eta)
-  - [Koka](#koka)
-  - [Ditto](#ditto)
-  - [F*](#f)
-  - [Idris](#idris)
-  - [Agda](#agda)
-  - [Coq](#coq)
-  
   
 ## Tutorials and Articles
 
@@ -1022,32 +1012,24 @@ ___
 ***
 * [**lfe** - Lisp Flavoured Erlang (LFE)](https://github.com/rvirding/lfe)
 
-### [OCaml]()
+### [OCaml](https://ocaml.org/)
 
 ***
 * [**bucklescript** - A backend for the OCaml compiler which emits JavaScript](https://github.com/bloomberg/bucklescript)
 
-### [Racket lang](https://racket-lang.org/)
+### [Racket](https://racket-lang.org/)
 
 ***
-[**hackett** - (Very) WIP implementation of a Haskell 98-like Lisp in Racket](https://github.com/lexi-lambda/hackett)
+* [**hackett** - (Very) WIP implementation of a Haskell 98-like Lisp in Racket](https://github.com/lexi-lambda/hackett)
 
 ## Languages
 
-- [Pyret](http://www.pyret.org/) - A programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming
-
-- [Ela](http://elalang.net/) - Dynamic functional language
-
-- [Eta](http://eta-lang.org/) - A powerful language for building scalable systems on the JVM
-
-- [Koka](https://github.com/koka-lang/koka) - A function-oriented language with effect inference
-
-- [Ditto](https://github.com/ditto/ditto) - A super kawaii dependently typed language for you!
-
-- [F*](https://www.fstar-lang.org/) - (pronounced F star) An ML-like functional programming language aimed at program verification
-
-- [Idris](http://www.idris-lang.org/) - A general purpose pure functional programming language with dependent types
-
-- [Agda](https://github.com/agda/agda) - A dependently typed functional programming language
-
-- [Coq](https://coq.inria.fr/) - A formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs
+* [Pyret](http://www.pyret.org/) - A programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming
+* [Ela](http://elalang.net/) - A dynamic functional language
+* [Eta](http://eta-lang.org/) - A powerful language for building scalable systems on the JVM
+* [Koka](https://github.com/koka-lang/koka) - A function-oriented language with effect inference
+* [Ditto](https://github.com/ditto/ditto) - A super kawaii dependently typed language for you!
+* [F*](https://www.fstar-lang.org/) - (pronounced F star) An ML-like functional programming language aimed at program verification
+* [Idris](http://www.idris-lang.org/) - A general purpose pure functional programming language with dependent types
+* [Agda](https://github.com/agda/agda) - A dependently typed functional programming language
+* [Coq](https://coq.inria.fr/) - A formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs
